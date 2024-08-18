@@ -4,6 +4,9 @@ if(isset($_POST['submit']))
     $unknown=$_POST['unknown'];
 }
 ?>
+<style>
+    
+</style>
 
 <!DOCTYPE html>
 <html lang="en">
